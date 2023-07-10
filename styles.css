@@ -1,6 +1,18 @@
-.holder{
-	display: flex;
-	
-	padding:50%;
-}
+ body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    
+    .holder {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .item-1 {
+	}
 /* Your CSS Code here. */
